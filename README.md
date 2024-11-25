@@ -22,6 +22,7 @@ This project requires Python 3.6+ and the following Python libraries installed:
 - Matplotlib
 - Seaborn
 - Scikit-Learn
+- Keras
 - TensorFlow
 - Streamlit
 To run this project, download the project files and run the Jupyter Notebook.
